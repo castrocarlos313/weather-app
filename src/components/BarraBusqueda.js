@@ -11,8 +11,6 @@ const BarraBusqueda = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (busqueda.trim() !== "") {
-      console.log(busqueda);
-
       dispatch(obtenerTiempo(busqueda));
 
       setBusqueda("");
