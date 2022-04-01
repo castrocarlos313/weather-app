@@ -1,0 +1,290 @@
+[
+  {
+    "código": "1000",
+    "día": "Soleado",
+    "noche": "Claro",
+    "icono": "113"
+  },
+  {
+    "código": "1003",
+    "dia": "Parcialmente nublado",
+    "night": "Parcialmente nublado",
+    "icono": "116"
+  },
+  {
+    "código": "1006",
+    "dia": "Nublado",
+    "noche": "Nublado",
+    "icono": "119"
+  },
+  {
+    "código": "1009",
+    "dia": "Nublado",
+    "noche": "Nublado",
+    "icono": "122"
+  },
+  {
+    "código": "1030",
+    "día": "Niebla",
+    "noche": "niebla",
+    "icono": "143"
+  },
+  {
+    "código": 1063,
+    "day": "Lluvia irregular posible",
+    "night": "Lluvia irregular posible",
+    "icono": 176
+  },
+  {
+    "código": 1066,
+    "day": "Es posible que haya nieve en parches",
+    "night": "Posibilidad de nieve en parches",
+    "icono": 179
+  },
+  {
+    "código": 1069,
+    "day": "Es posible que haya aguanieve irregular",
+    "night": "Posible aguanieve",
+    "icono": 182
+  },
+  {
+    "código": 1072,
+    "day": "Posible llovizna congelada en parches",
+    "night": "Posible llovizna congelada en parches",
+    "icono": 185
+  },
+  {
+    "código": 1087,
+    "day": "Posibles brotes de truenos",
+    "night": "Posibles brotes de truenos",
+    "icono": 200
+  },
+  {
+    "código": 1114,
+    "día": "Ventisca de nieve",
+    "night": "Ventisca de nieve",
+    "icono": 227
+  },
+  {
+    "código": 1117,
+    "día": "Ventisca",
+    "noche": "Ventisca",
+    "icono": 230
+  },
+  {
+    "código": 1135,
+    "día": "Niebla",
+    "noche": "Niebla",
+    "icono": 248
+  },
+  {
+    "código": 1147,
+    "day": "Niebla helada",
+    "night": "Niebla helada",
+    "icono": 260
+  },
+  {
+    "código": 1150,
+    "day": "Llovizna ligera irregular",
+    "night": "Llovizna ligera irregular",
+    "icono": 263
+  },
+  {
+    "código": 1153,
+    "día": "Llovizna ligera",
+    "night": "Llovizna ligera",
+    "icono": 266
+  },
+  {
+    "código": 1168,
+    "day": "Llovizna helada",
+    "night": "Llovizna helada",
+    "icono": 281
+  },
+  {
+    "código": 1171,
+    "day": "Llovizna helada fuerte",
+    "night": "Llovizna helada fuerte",
+    "icono": 284
+  },
+  {
+    "código": 1180,
+    "day": "Lluvia ligera irregular",
+    "night": "Lluvia ligera irregular",
+    "icono": 293
+  },
+  {
+    "código": 1183,
+    "día": "Lluvia ligera",
+    "night": "Lluvia ligera",
+    "icono": 296
+  },
+  {
+    "código": 1186,
+    "day": "Lluvia moderada a veces",
+    "night": "Lluvia moderada a veces",
+    "icono": 299
+  },
+  {
+    "código": 1189,
+    "día": "Lluvia moderada",
+    "night": "Lluvia moderada",
+    "icono": 302
+  },
+  {
+    "código": 1192,
+    "day": "Lluvia fuerte a veces",
+    "night": "Lluvia fuerte a veces",
+    "icono": 305
+  },
+  {
+    "código": 1195,
+    "día": "Lluvia intensa",
+    "noche": "Lluvia intensa",
+    "icono": 308
+  },
+  {
+    "código": 1198,
+    "day": "Lluvia helada ligera",
+    "night": "Lluvia helada ligera",
+    "icono": 311
+  },
+  {
+    "código": 1201,
+    "día": "Lluvia helada moderada o intensa",
+    "night": "Lluvia helada moderada o intensa",
+    "icono": 314
+  },
+  {
+    "código": 1204,
+    "day": "Ligera aguanieve",
+    "night": "Ligera aguanieve",
+    "icono": 317
+  },
+  {
+    "código": 1207,
+    "día": "Aguanieve moderada o fuerte",
+    "night": "Aguanieve moderada o fuerte",
+    "icono": 320
+  },
+  {
+    "código": 1210,
+    "day": "Nieve ligera irregular",
+    "night": "Nieve ligera irregular",
+    "icono": 323
+  },
+  {
+    "código": 1213,
+    "día": "Nieve ligera",
+    "night": "Nieve ligera",
+    "icono": 326
+  },
+  {
+    "código": 1216,
+    "day": "Nieve moderada irregular",
+    "night": "Nieve moderada irregular",
+    "icono": 329
+  },
+  {
+    "código": 1219,
+    "día": "Nieve moderada",
+    "night": "Nieve moderada",
+    "icono": 332
+  },
+  {
+    "código": 1222,
+    "day": "Nevadas intensas irregulares",
+    "night": "Nieve intensa irregular",
+    "icono": 335
+  },
+  {
+    "código": 1225,
+    "día": "Nevada fuerte",
+    "noche": "Nevada intensa",
+    "icono": 338
+  },
+  {
+    "código": 1237,
+    "day": "Bolitas de hielo",
+    "night": "Bolitas de hielo",
+    "icono": 350
+  },
+  {
+    "código": 1240,
+    "day": "Lluvia ligera",
+    "night": "Lluvia ligera",
+    "icono": 353
+  },
+  {
+    "código": 1243,
+    "day": "Lluvia moderada o fuerte",
+    "night": "Lluvia moderada o fuerte",
+    "icono": 356
+  },
+  {
+    "código": 1246,
+    "day": "Lluvia torrencial",
+    "night": "Lluvia torrencial",
+    "icono": 359
+  },
+  {
+    "código": 1249,
+    "día": "Lluvias ligeras de aguanieve",
+    "night": "Lluvias de aguanieve",
+    "icono": 362
+  },
+  {
+    "código": 1252,
+    "día": "Lluvias moderadas o fuertes de aguanieve",
+    "night": "Lluvias moderadas o fuertes de aguanieve",
+    "icono": 365
+  },
+  {
+    "código": 1255,
+    "day": "Léveos chubascos de nieve",
+    "night": "Léveos chubascos de nieve",
+    "icono": 368
+  },
+  {
+    "código": 1258,
+    "day": "Nevadas moderadas o intensas",
+    "night": "Lluvias de nieve moderadas o intensas",
+    "icono": 371
+  },
+  {
+    "código": 1261,
+    "day": "Ligeras lluvias de gránulos de hielo",
+    "night": "Ligeras lluvias de gránulos de hielo",
+    "icono": 374
+  },
+  {
+    "código": 1264,
+    "day": "Lluvias moderadas o fuertes de gránulos de hielo",
+    "night": "Lluvias moderadas o fuertes de gránulos de hielo",
+    "icono": 377
+  },
+  {
+    "código": 1273,
+    "day": "Lluvia ligera irregular con truenos",
+    "night": "Lluvia ligera irregular con truenos",
+    "icono": 386
+  },
+  {
+    "código": 1276,
+    "day": "Lluvia moderada o fuerte con truenos",
+    "night": "Lluvia moderada o fuerte con truenos",
+    "icono": 389
+  },
+  {
+    "código": 1279,
+    "day": "Nieve ligera irregular con truenos",
+    "night": "Nieve ligera irregular con truenos",
+    "icono": 392
+  },
+  {
+    "código": 1282,
+    "day": "Nevada moderada o fuerte con truenos",
+    "night": "Nieve moderada o fuerte con truenos",
+    "icono": 395
+  }
+]
