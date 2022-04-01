@@ -13,7 +13,7 @@ export function obtenerTiempo(busqueda) {
     dispatch(fetching());
     try {
       const { data } = await axios.get(
-        `https://api.weatherapi.com/v1/forecast.json?key=${process.env.REACT_APP_API_KEY}&q=${busqueda}&days=1&aqi=no&alerts=no&lang=es`
+        `http://api.weatherapi.com/v1/forecast.json?key=${process.env.REACT_APP_API_KEY}&q=${busqueda}&days=1&aqi=no&alerts=no&lang=es`
       );
 
       const dt = dataTransform(data);
