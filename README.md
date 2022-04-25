@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Weather APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Una simple aplicacion para obtener el tiempo en una ciudad hecha en react y redux consumiendo la api de [weatherApi](https://www.weatherapi.com/).
 
-## Available Scripts
+# Contenido
 
-In the project directory, you can run:
+- [Weather APP](#weather-app)
+- [Contenido](#contenido)
+- [Tecnologias usadas](#tecnologias-usadas)
+- [Lunch](#lunch)
+- [Imagenes](#imagenes)
 
-### `npm start`
+# Tecnologias usadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [React](https://es.reactjs.org/)
+- [react-redux](https://react-redux.js.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Postcss](https://postcss.org/)
+- [Eslint](https://eslint.org/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Lunch
 
-### `npm test`
+Para correr este proyecto, se tiene que crear una cuenta en [weatherApi](https://www.weatherapi.com/) y guardar la api key en el archivo _.env-development.local_ en la variable REACT_APP_API_KEY y usar los siguiente comandos:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+$ npm install
+$ npm start
+```
 
-### `npm run build`
+# Imagenes
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[index.js](src/index.js)
+![index](https://i.imgur.com/UFGNDBP.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Buscando el tiempo de una ciudad realizando un fetch a la api de [weatherApi](https://www.weatherapi.com/):
+![busqueda-1](https://i.imgur.com/aruLfBJ.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Se pude ver la con detalle el tiempo de 24hs:
+![busqueda-2](https://i.imgur.com/vDfilIt.png)
 
-### `npm run eject`
+La aplicacion permite cambiar entre celsius y farenheite:
+![cambiar-medida](https://i.imgur.com/6kFsq7q.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+En caso de no existir la ciudad buscada:
+![busqueda-error](https://i.imgur.com/zPxYe48.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Dependiendo de los resultado el fondo cambia:
+![resultado-noche](https://i.imgur.com/E70RrW1.png)
+![resultado-dia](https://i.imgur.com/Z4pvo1F.png)
+![resultado-nevando de dia](https://i.imgur.com/GfgdRqn.png)
+![resultado-nevando de noche](https://i.imgur.com/T1MVQZW.png)
