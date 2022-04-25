@@ -1,6 +1,6 @@
 # Weather APP
 
-Una simple aplicacion para obtener el tiempo en una ciudad hecha en react y redux consumiendo la api de [weatherApi](https://www.weatherapi.com/).
+Una simple aplicacion para obtener el tiempo en una ciudad hecha en react y redux consumiendo la api de [weatherApi](https://www.weatherapi.com/). Esta subido en https://stellular-cucurucho-b97bb3.netlify.app/.
 
 # Contenido
 
