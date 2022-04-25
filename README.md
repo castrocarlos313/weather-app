@@ -7,7 +7,7 @@ Una simple aplicacion para obtener el tiempo en una ciudad hecha en react y redu
 - [Weather APP](#weather-app)
 - [Contenido](#contenido)
 - [Tecnologias usadas](#tecnologias-usadas)
-- [Lunch](#lunch)
+- [Launch](#launch)
 - [Imagenes](#imagenes)
 
 # Tecnologias usadas
@@ -18,7 +18,7 @@ Una simple aplicacion para obtener el tiempo en una ciudad hecha en react y redu
 - [Postcss](https://postcss.org/)
 - [Eslint](https://eslint.org/)
 
-# Lunch
+# Launch
 
 Para correr este proyecto, se tiene que crear una cuenta en [weatherApi](https://www.weatherapi.com/) y guardar la api key en el archivo _.env-development.local_ en la variable REACT_APP_API_KEY y usar los siguiente comandos:
 
